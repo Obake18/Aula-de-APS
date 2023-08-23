@@ -1,1 +1,1 @@
-document.write("<script type")
+document.write("script type")
